@@ -1,0 +1,99 @@
+Biodata of Ashwanthram K L
+
+Personal Information:
+
+Name: Ashwanthram K L
+Date of Birth: May 18, 2002
+Gender: Male
+Nationality: Indian
+Marital Status: Single
+Address: A 10, Sterling Lotus Apartments, 11th Street, TNHB Colony, Korattur, Chennai 80
+Contact Information:
+Email: k.l.ashwanthram@gmail.com
+Phone: +91 8681849991
+
+Physical Attributes:
+
+Height: 5 feet 9inch (174cm)
+Weight: 130 lbs (59 kg)
+Blood Group: O+
+Eye Color: Brown
+Hair Color: Black
+
+Health Metrics:
+
+Blood Pressure: 120/80 mmHg
+Heart Rate: 72 bpm
+BMI: 19.5
+Allergies: None
+Medical Conditions:
+* Spondylolysis of the L4-L5
+
+Sports and Hobbies:
+
+Sports:
+* Football: Played at college level, continue to play recreationally. Enjoy participating in local tournaments.
+* Running: Regularly participate in local 5K and 10K races. Completed two half-marathons and currently training for a full marathon.
+* Cycling: Enjoy long-distance cycling trips on weekends. Participated in various charity cycling events.
+* Weightlifting: Avid weightlifter. Follows PUSH-PULL-LEG workout routine. Doesn't like to do SQUATS, DEADLIFTS, BARBELL BENCH PRESS. Trains 6 times a week. Currently focusing on increasing weight while staying lean with a bodyfat percentage less than 15.
+
+Hobbies:
+* Hiking: Passionate about exploring nature trails and national parks. Have hiked in several national parks across the country and enjoy weekend hikes with friends.
+* Technology: Keen interest in the latest tech trends and gadgets. Frequently attend tech meetups and conferences to stay updated with industry advancements.
+* Reading: Avid reader of science fiction and technology books. Favorite authors include Isaac Asimov, Philip K. Dick, and Ray Kurzweil.
+* Traveling: Love exploring new cultures and places. Have traveled to over 20 cities and plan annual trips to new destinations.
+
+Education:
+
+Bachelor of Engineering in Computer Science, Coimbatore Institute of Technology, 2024(Graduated)
+Courses Completed:
+Introduction to Computer Science - A
+Data Structures and Algorithms - A
+Machine Learning - A
+Artificial Intelligence - A
+Database Systems - B+
+Natural Language Processing - A
+Software Engineering - A-
+Computer Networks - B
+Operating Systems - B+
+Capstone Project: AI-Powered Chatbot Development - A
+
+Professional Experience:
+
+AI Engineer at ABC Corp (2019 - 2023)
+Developed an AI-driven customer service chatbot.
+Led a team of AI engineers and mentored junior members.
+Improved customer satisfaction rates through innovative AI solutions.
+Integrated complex algorithms with user-friendly interfaces.
+
+Skills:
+
+ Programming Languages: Python, Javascript, C++
+ Frameworks & Libraries: Streamlit, Gradio, Langchain, Autogen (Multiagent), OpenAI Platform, together.ai, HuggingFace
+ Prompt Engineering Techniques: Reflexion, Chain-of-thought, Tree-of-thought, In-Context Learning, ReAct, Expert Persona
+ Prompting, Meta Prompting, Multi-Agent Debate Prompting
+ Machine Learning: Large Language Models (LLMs), Retrieval Augmented Generation (RAG), LLM Finetuning, Information
+ Retrieval, Transformers, Word2Vec, Node2Vec, NumPy, Scikit-Learn, Pandas, NLTK, Matplotlib, Tensorflow
+ Software & Tools: FAISS, ChromaDB, LlamaIndex, Pinecone, MySQL, Git, Github, PromptLayer, AWS SageMaker, Google
+ Colab, VS Code, Jupyter Notebooks, Linux, Window
+
+
+Recommendations:
+
+Jane Smith, Head of AI Development, ABC Corp:
+"Ashwanthram is a highly skilled AI engineer with a deep understanding of machine learning and NLP. His innovative thinking and dedication to excellence have significantly contributed to our projects."
+
+Research Interests:
+
+* Exploring the integration of GPT-4 with vector databases for improved information retrieval.
+* Potential applications of RAG in customer service to provide more accurate and contextually relevant responses.
+* Investigating the use of AI in creative writing, particularly in generating story plots and character development.
+Personal Notes:
+
+Project Ideas:
+* AI-Enhanced Personal Finance Manager: Develop an AI system that analyzes spending habits, provides budget recommendations, and forecasts financial trends. Integrate with banking APIs for real-time data.
+* Health Monitoring Chatbot: Create a chatbot that offers personalized health advice based on user inputs and medical data. Utilize natural language processing to interpret user symptoms and provide relevant information.
+
+References:
+
+Jane Smith: jane.smith@example.com, +1 234 567 8910
