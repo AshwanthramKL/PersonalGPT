@@ -54,6 +54,7 @@ Replace `<repository_directory>` with the path to the cloned repository in your 
     * `Personal_Blog.txt`: Text file containing Ashwanthram's personal blog about himself.
     * `Reading_List.md`: Markdown file containing Ashwanthram's reading list.
     * `WorkoutRoutine.md`: Markdown file containing Ashwanthram's detailed workout routine and calorie goals.
+- **vector_db/:** Directory containing the vector database files.
 
 ## Running the Jupyter Notebook
 Open the Jupyter notebook and run all cells inside `Task: Data Extraction and VectorDB Creation` to execute the data ingestion process. This will extract personal data from text files or PDFs, index it into a vector database, and generate embeddings for retrieval.
