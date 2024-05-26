@@ -45,7 +45,7 @@ Replace `<repository_directory>` with the path to the cloned repository in your 
 ### File Structure
 - **PersonalGPT.ipynb:** Jupyter notebook containing the code for extracting personal data,and indexing it into a vector database.
 - **streamlit_app.py:** Streamlit application file containing the RAG system integration and frontend interface.
-- **data/:** Directory containing text files and PDFs for data including:
+- **personalDocuments/:** Directory containing text files and PDFs for data including:
     * `Ashwanthram_Biodata.txt`: Text file containing Bio data
     * `AshwanthramResume_DS_GenAI.pdf`: Ashwanthram's Resume
     * `BucketList.txt`: Text file containing Ashwanthram's bucket list
