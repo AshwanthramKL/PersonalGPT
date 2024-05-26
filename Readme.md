@@ -77,7 +77,7 @@ streamlit run streamlit_app.py
 
 ### Demonstration
 
-Demonstration Video
+[Demonstration Video](https://www.loom.com/share/e0aa7d60f56945e1ab5c860e7fff5f25?sid=a39e1ccc-2388-4bfa-a129-0f560c5ad2bc)
 
 ### Contact
 For any questions or support, please contact:
