@@ -4,18 +4,13 @@
 
 PersonalGPT is a Retrieval-Augmented Generation (RAG) based AI application capable of answering questions about me(Ashwanthram). This system integrates data ingestion, a vector database for efficient retrieval, and a generative AI model to provide accurate and contextually relevant responses.
 
-## Core Requirements
+## Project Objectives
 
 1. **Data Ingestion**: Ingest personal data from text files or PDFs and index it into a vector database.
 2. **RAG System Integration**: Utilize a RAG approach combining information retrieval from the vector database and generative capabilities of large language models (LLMs).
 3. **Follow-Up Questions**: Implement logic to handle follow-up questions, maintaining conversation context.
 4. **Interface**: Develop a basic frontend using Streamlit for user interaction with the AI system.
 
-## Deliverables
-
-1. **Code Repository**: A well-organized code repository with clear instructions for setup and execution.
-2. **Documentation**: Comprehensive documentation covering system architecture, data ingestion, RAG integration, and evaluation methods.
-3. **Demonstration**: A video or live demonstration link showcasing the system's capabilities.
 
 ## Setup Instructions
 
@@ -41,9 +36,11 @@ Additionally, the following Python packages are required:
 ### Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/AshwanthramKL/PersonalGPT
 cd <repository_directory>
 ```
+
+Replace `<repository_directory>` with the path to the cloned repository in your local system.
 
 ### File Structure
 - **PersonalGPT.ipynb:** Jupyter notebook containing the code for extracting personal data,and indexing it into a vector database.
@@ -59,7 +56,7 @@ cd <repository_directory>
     * `WorkoutRoutine.md`: Markdown file containing Ashwanthram's detailed workout routine and calorie goals.
 
 ## Running the Jupyter Notebook
-Open the Jupyter notebook and run all cells to execute the data ingestion process. This will extract personal data from text files or PDFs, index it into a vector database, and generate embeddings for retrieval.
+Open the Jupyter notebook and run all cells inside `Task: Data Extraction and VectorDB Creation` to execute the data ingestion process. This will extract personal data from text files or PDFs, index it into a vector database, and generate embeddings for retrieval.
 
 ### Running the Streamlit Application
 
@@ -85,4 +82,4 @@ Demonstration Video
 For any questions or support, please contact:
 
 Name: Ashwanthram  
-Email: k.l.ashwanthram@gmail.com
+Email: k.l.ashwanthram@gmail.com  
