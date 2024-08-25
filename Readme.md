@@ -1,4 +1,4 @@
-# PersonalGPT: A Retrieval-Augmented Generation AI System
+# PersonalGPT: A Retrieval-Augmented Generation(RAG) AI System
 
 ## Project Overview
 
